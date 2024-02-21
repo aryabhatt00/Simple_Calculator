@@ -1,0 +1,5 @@
+to run --> npm start
+
+to write class in return we should use className instead of class. it works same as in html
+
+to install routing => npm install react-router-dom

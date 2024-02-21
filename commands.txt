@@ -1,0 +1,5 @@
+to add the json initially -->  npm init -y
+to add jest --> npm install --save--dev jest
+"test": "echo \"Error: no test specified\" && exit 1" change it to jest
+run jest -- > npm run test
+to export the testing one --> module.exports=addfive; its exports
